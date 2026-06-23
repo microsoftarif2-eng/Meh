@@ -1,0 +1,5 @@
+data/archive/old/
+tools/fuzer/*
+!tools/fuzer/.gitkeep
+tools/BsaBrowser/*
+!tools/BsaBrowser/.gitkeep
